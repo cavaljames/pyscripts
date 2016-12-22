@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 '''
 Created on 2016年11月9日
 @author: sugar
-@intro: a simple searcher to get downlinks from http://btdigg.pw , you can search whatever you like :-)
+@see: a simple searcher to get downlinks from http://btdigg.pw , you can search whatever you like :-)
 '''
 
 def do_post(url, data): 
